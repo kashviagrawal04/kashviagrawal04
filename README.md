@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7c3aed&height=200&section=header&text=Kashvi%20Agrawal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20%2B%20Data%20Science%20%7C%20VIT%20Vellore&descAlignY=58&descColor=8b949e)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7c3aed&height=200&section=header&text=Kashvi%20Agrawal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CSE%20%7C%20VIT%20Vellore&descAlignY=58&descColor=8b949e)
 
 </div>
 
