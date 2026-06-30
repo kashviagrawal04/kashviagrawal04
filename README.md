@@ -70,13 +70,6 @@ const kashvi = {
 
 ---
 
-## 📜 Certifications
-
-- 🤖 **Generative AI with IBM Watsonx** — IBM Skills Network *(Jun 2025)*
-- 🚁 **AI & ML with Drone Technology** — IIT Roorkee *(Ongoing)*
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
