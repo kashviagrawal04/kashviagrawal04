@@ -1,49 +1,68 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kashvi+%F0%9F%91%8B;CS+%2B+Data+Science+%40+VIT;Building+AI+that+matters+%F0%9F%A4%96" alt="Typing SVG" />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7c3aed&height=200&section=header&text=Kashvi%20Agrawal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20%2B%20Data%20Science%20%7C%20VIT%20Vellore&descAlignY=58&descColor=8b949e)
+
+</div>
+
+<div align="center">
+
+### *Always Building. Always Learning.* ⚡
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kashviagrawal04&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/kashviagrawal04)
+[![GitHub followers](https://img.shields.io/github/followers/kashviagrawal04?style=flat-square&color=58a6ff&label=Followers)](https://github.com/kashviagrawal04)
+
 </div>
 
 ---
 
-## About Me 🧠
+## 🧠 About Me
 
-I'm a **Computer Science & Data Science** undergrad at **Vellore Institute of Technology** (2023–2027).
-
-I love building AI systems that solve real problems — from helping visually impaired people navigate streets safely, to detecting allergens in food with a single photo, to a safety app that responds to your voice without you even touching your phone.
-
-Currently exploring **NLP, Computer Vision, and on-device AI** — and always working on something new. 🚀
-
----
-
-## Skills 🛠️
-
-```
-Languages    →  Python · JavaScript · Java
-AI / ML      →  PyTorch · Transformers · XGBoost · Scikit-learn · NLP
-Web          →  React · FastAPI · REST APIs · HTML · CSS
-Database     →  PostgreSQL · SQL · Room (Android)
-Tools        →  Git · GitHub · AWS · Google Colab · Android Studio
+```python
+const kashvi = {
+  role        : "CS + Data Science Undergrad",
+  university  : "Vellore Institute of Technology",
+  github      : "https://github.com/kashviagrawal04",
+  interests   : ["AI/ML", "NLP", "Computer Vision", "Android Dev"],
+  learning    : ["LLMs", "Fine-tuning", "AWS", "Drone AI"],
+  funFact     : "I built a safety app that listens for a secret word 🛡️"
+};
 ```
 
 ---
 
-## Certifications 📜
+## 🛠 Tech Stack
 
-- 🤖 **Generative AI with IBM Watsonx** — IBM Skills Network *(Jun 2025)*
-- 🚁 **AI & ML with Drone Technology** — IIT Roorkee *(Ongoing)*
+#### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java&theme=dark" />
+</p>
+
+#### 🤖 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+#### 🌐 Web & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,html,css&theme=dark" />
+</p>
+
+#### 🗄 Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,git,github,aws,androidstudio&theme=dark" />
+</p>
 
 ---
 
-## How to reach me 💬
-
-📧 Drop me a mail at **kashviagrawal4@gmail.com**
-💼 Connect with me on **[LinkedIn](https://linkedin.com/in/kashviagrawal0410)**
-🐙 Check out my work on **[GitHub](https://github.com/kashviagrawal04)**
-
----
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![Kashvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashviagrawal04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+![Kashvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashviagrawal04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=8b949e&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kashviagrawal04&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=7c3aed&currStreakLabel=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashviagrawal04&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
@@ -51,6 +70,30 @@ Tools        →  Git · GitHub · AWS · Google Colab · Android Studio
 
 ---
 
+## 📜 Certifications
+
+- 🤖 **Generative AI with IBM Watsonx** — IBM Skills Network *(Jun 2025)*
+- 🚁 **AI & ML with Drone Technology** — IIT Roorkee *(Ongoing)*
+
+---
+
+## 🤝 Connect With Me
+
 <div align="center">
-  <i>Always building. Always learning. Always shipping. ⚡</i>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashviagrawal0410)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashviagrawal4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashviagrawal04)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1f6feb,100:0d1117&height=120&section=footer)
+
+💜 *Thanks for visiting my GitHub profile!*
+*Let's build something amazing together* 🚀
+
 </div>
